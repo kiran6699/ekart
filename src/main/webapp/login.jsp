@@ -6,4 +6,5 @@
   <a href="index.jsp">click</a>
   <input  type="checkbox">
   <input  type="radio">
+  <input  type="button">
 </form>
